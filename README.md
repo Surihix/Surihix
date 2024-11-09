@@ -32,6 +32,18 @@ Welcome to my profile.
 - [Drakengard3xxxToMp3](https://github.com/Surihix/Drakengard3xxxToMp3)
 - [Drakengard3MusicMaker](https://github.com/Surihix/Drakengard3MusicMaker)
 
+
+## Zone of Enders 2 stuff
+- [Zoe2PacTool](https://github.com/Surihix/Zoe2PacTool)
+- [CyArchiveTool](https://github.com/Surihix/CyArchiveTool)
+
+
+## Random stuff
+- [HeaderBytesRemover](https://github.com/Surihix/HeaderBytesRemover)
+- [ZLIB_decompressor](https://github.com/Surihix/ZLIB_decompressor)
+- [HashCheck](https://github.com/Surihix/HashCheck)
+
+
 <!--
 **Surihix/Surihix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
