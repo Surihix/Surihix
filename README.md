@@ -39,6 +39,7 @@ Welcome to my profile.
 
 
 ## Random stuff
+- [DeviArchiveTool](https://github.com/Surihix/DeviArchiveTool)
 - [HeaderBytesRemover](https://github.com/Surihix/HeaderBytesRemover)
 - [ZLIB_decompressor](https://github.com/Surihix/ZLIB_decompressor)
 - [HashCheck](https://github.com/Surihix/HashCheck)
