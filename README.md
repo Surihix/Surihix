@@ -2,7 +2,7 @@
 
 Welcome to my profile.
 
-### Final Fantasy XIII trilogy stuff
+## Final Fantasy XIII trilogy stuff
 - [WhiteCryptTool](https://github.com/Surihix/WhiteCryptTool)
 - [WhiteBinTools](https://github.com/Surihix/WhiteBinTools)
 - [WhiteBinTools_dll](https://github.com/Surihix/WhiteBinTools_dll)
@@ -20,14 +20,14 @@ Welcome to my profile.
 - [LRMusicVolumeSlider](https://github.com/Surihix/LRMusicVolumeSlider)
 
 
-### Dirge of Cerberus stuff
+## Dirge of Cerberus stuff
 - [DoCCryptTool](https://github.com/Surihix/DoCCryptTool)
 - [DoCPathsGenerator](https://github.com/Surihix/DoCPathsGenerator)
 - [DoCTextTool](https://github.com/Surihix/DoCTextTool)
 - [DoCMovieTool](https://github.com/Surihix/DoCMovieTool)
 
 
-### Drakengard stuff
+## Drakengard stuff
 - [Drakengard1and2Extractor](https://github.com/Surihix/Drakengard1and2Extractor)
 - [Drakengard3xxxToMp3](https://github.com/Surihix/Drakengard3xxxToMp3)
 - [Drakengard3MusicMaker](https://github.com/Surihix/Drakengard3MusicMaker)
