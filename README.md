@@ -2,6 +2,10 @@
 
 I am a C# tools programmer, modder and reverse-engineer with a huge interest in the field of game development, game asset storage, and other binary related operations.
 
+#### My Mod page
+- [Nexus](https://next.nexusmods.com/profile/Surihix/mods)
+
+
 ## Final Fantasy XIII trilogy stuff
 - [WhiteCryptTool](https://github.com/Surihix/WhiteCryptTool)
 - [WhiteBinTools](https://github.com/Surihix/WhiteBinTools)
