@@ -18,7 +18,7 @@ I am a C# tools programmer, modder and reverse-engineer with a huge interest in 
 - [TRBtool](https://github.com/Surihix/TRBtool)
 - [ZTRtool](https://github.com/Surihix/ZTRtool)
 - [TxbImageTool](https://github.com/Surihix/TxbImageTool) - will be released soon
-- [WhiteFilecodeGenerator](https://github.com/Surihix/WhiteFilecodeGenerator) - will be released soon
+- [WhiteFilecodeGenerator](https://github.com/Surihix/WhiteFilecodeGenerator)
 - [FFXIIIMusicVolumeSlider](https://github.com/Surihix/FFXIIIMusicVolumeSlider)
 - [FFXIII2MusicVolumeSlider](https://github.com/Surihix/FFXIII2MusicVolumeSlider)
 - [LRMusicVolumeSlider](https://github.com/Surihix/LRMusicVolumeSlider)
