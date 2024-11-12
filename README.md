@@ -1,6 +1,6 @@
 ### Hi there!
 
-Welcome to my profile.
+I am a C# tools programmer, modder and reverse-engineer with a huge interest in the field of game development, game asset storage, and other binary related operations.
 
 ## Final Fantasy XIII trilogy stuff
 - [WhiteCryptTool](https://github.com/Surihix/WhiteCryptTool)
@@ -39,17 +39,16 @@ Welcome to my profile.
 
 
 ## Random stuff
+- [JumpKnight](https://github.com/Surihix/jumpknight)
+- [PS2ImageTool](https://github.com/Surihix/PS2ImageTool)
 - [DeviArchiveTool](https://github.com/Surihix/DeviArchiveTool)
+- [HashCheck](https://github.com/Surihix/HashCheck)
 - [HeaderBytesRemover](https://github.com/Surihix/HeaderBytesRemover)
 - [ZLIB_decompressor](https://github.com/Surihix/ZLIB_decompressor)
-- [HashCheck](https://github.com/Surihix/HashCheck)
 
 
 <!--
-**Surihix/Surihix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
