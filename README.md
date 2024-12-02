@@ -24,7 +24,7 @@ I am a C# tools programmer, modder and reverse-engineer with a huge interest in 
 - [LRMusicVolumeSlider](https://github.com/Surihix/LRMusicVolumeSlider)
 
 
-## FFXV stuff
+## Final Fantasy XV stuff
 - [EbonySnapsManager](https://github.com/Surihix/EbonySnapsManager)
 
 
