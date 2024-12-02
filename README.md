@@ -24,6 +24,10 @@ I am a C# tools programmer, modder and reverse-engineer with a huge interest in 
 - [LRMusicVolumeSlider](https://github.com/Surihix/LRMusicVolumeSlider)
 
 
+## FFXV stuff
+-[EbonySnapsManager](https://github.com/Surihix/EbonySnapsManager)
+
+
 ## Dirge of Cerberus stuff
 - [DoCCryptTool](https://github.com/Surihix/DoCCryptTool)
 - [DoCPathsGenerator](https://github.com/Surihix/DoCPathsGenerator)
