@@ -26,6 +26,7 @@ I am a C# tools programmer, modder and reverse-engineer with a huge interest in 
 
 ## Final Fantasy XV stuff
 - [EbonySnapsManager](https://github.com/Surihix/EbonySnapsManager)
+- [FFXVSaveCrypt](https://github.com/Surihix/FFXVSaveCrypt)
 
 
 ## Dirge of Cerberus stuff
