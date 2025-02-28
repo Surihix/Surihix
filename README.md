@@ -10,6 +10,7 @@ I am a C# tools programmer, modder and reverse-engineer with a huge interest in 
 - [WhiteCryptTool](https://github.com/Surihix/WhiteCryptTool)
 - [WhiteBinTools](https://github.com/Surihix/WhiteBinTools)
 - [WhiteBinTools_dll](https://github.com/Surihix/WhiteBinTools_dll)
+- [WhiteFilelistManager](https://github.com/Surihix/WhiteFilelistManager)
 - [FFXIIIWMPtool](https://github.com/Surihix/FFXIIIWMPtool)
 - [IMGBlibrary](https://github.com/Surihix/IMGBlibrary)
 - [WPDtool](https://github.com/Surihix/WPDtool)
