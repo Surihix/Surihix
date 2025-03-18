@@ -15,7 +15,7 @@ I am a C# tools programmer, modder and reverse-engineer with a huge interest in 
 - [IMGBlibrary](https://github.com/Surihix/IMGBlibrary)
 - [WPDtool](https://github.com/Surihix/WPDtool)
 - [WDBJsonTool](https://github.com/Surihix/WDBJsonTool)
-- [WDBXlsxConverter](https://github.com/Surihix/WDBXlsxConverter)
+- [WDBXlsxTool](https://github.com/Surihix/WDBXlsxTool)
 - [TRBtool](https://github.com/Surihix/TRBtool)
 - [ZTRtool](https://github.com/Surihix/ZTRtool)
 - [TxbImageTool](https://github.com/Surihix/TxbImageTool)
