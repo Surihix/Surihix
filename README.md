@@ -49,6 +49,7 @@ I am a C# tools programmer, modder and reverse-engineer with a huge interest in 
 
 ## Random stuff
 - [JumpKnight](https://github.com/Surihix/jumpknight)
+- [WoFFCshTool](https://github.com/Surihix/WoFFCshTool)
 - [PS2ImageTool](https://github.com/Surihix/PS2ImageTool)<!-- - [DeviArchiveTool](https://github.com/Surihix/DeviArchiveTool) -->
 - [HashCheck](https://github.com/Surihix/HashCheck)
 - [HeaderBytesRemover](https://github.com/Surihix/HeaderBytesRemover)
